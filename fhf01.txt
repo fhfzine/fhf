@@ -1,1 +1,426 @@
-# FHF 01
+                                       Welcome to
+
+                                    FAKE HACKER FAGS
+                                         No. 1
+
+                              Featuring: Underground Gaygency
+                              -------------------------------
+
+                                $$$$$$$$
+                               $$$$$$$$$$
+                              $$$$$$$$$$$
+                             $$$$    $$$$
+                            $$$      $$$
+                            $$$      $$$
+                           $$$       $$$                  $$$$$$$
+                          $$$$       $$$                $$$$$$$$$$
+                         $$$$        $$$$           $$$$$$$$$$$$$$                     $$$$$$$$
+                        $$$$          $$$$         $$$$$$$     $$$   $               $$$$$$$$$$$
+                    $   $$$             $           $$$$       $$$  $$$             $$$$$$$$$$$$
+                   $$$  $$$                             $$$$$$ $$$  $$$            $$$$      $$$
+     $             $$$ $$$                  $$         $$$$$$$$$$$  $$$            $$$       $$$
+    $$$           $$$ $$$              $$$$$$$$       $$$$$$$$$$$$  $$$           $$$       $$$$
+    $$$           $$$ $$$          $$$$$$$$$$$       $$$$    $$$$$  $$$          $$$$        $$
+    $$$          $$$  $$$     $$$$$$$$$$$$$$        $$$       $$$$  $$$          $$$
+   $$$$          $$$  $$$    $$$$$$$$$$  $$$       $$$$       $$$   $$$         $$$$
+  $$$$         $$$$$ $$$    $$$$$$$       $$$     $$$$        $$$   $$$        $$$$
+ $$$$        $$$$$$$ $$$     $$           $$$    $$$$         $$$   $$$$       $$$
+ $$$     $$$$$$$$$$$ $$$$                 $$$    $$$          $$$    $$$$$     $$$
+ $$$$$$$$$$$$$$  $$$  $$$$                $$$    $$$          $$$     $$$$$$$$$$$$
+  $$$$$$$$$$$    $$$$  $$$$              $$$     $$$$         $$$       $$$$$$$$$
+   $$$$$$$        $$$   $$$$$$$$$$$$$$$$$$$$     $$$$$$$$$$$$$$$$         $$$$$$$
+                   $     $$$$$$$$$$$$$$$$$$       $$$$$$$$$$$$$$             $$$
+                          $$$$$$$$$$$$$$$           $$$$$$$$$$$              $$$
+                $$$$$$$$$$                                                  $$$
+             $$$$$$$$$$$$$$$$$$                                            $$$
+            $$$$$$$$$$$$$$$$$$$$$$$                     FAKE               $$$
+           $$$$$          $$$$$$$$$$$$                 HACKER             $$$
+          $$$                  $$$$$$$$$$               FAGS             $$$
+          $$$      $$$$            $$$$$$$$                            $$$$
+          $$$     $$$$$$              $$$$$$$$                       $$$$$
+          $$$$     $$$$$$                $$$$$$$$$$               $$$$$$$
+           $$$$$      $$$                  $$$$$$$$$$$$$$$$$$$$$$$$$$$$
+            $$$$$$$$$$$$$                     $$$$$$$$$$$$$$$$$$$$$$$
+             $$$$$$$$$$$$                          $$$$$$$$$$$$$$$
+                $$$$$$$$
+
+
+
+
+            Welcome one, welcome all. FHF is not a zine in the normal sense, but
+            serves it purpose in exposing Fake Hacker Fags - aka skids, aka
+            lamerz. Hopefully this is a single issue but in the underground...
+            you never know when a FHF is going to show up.
+
+            In this first installment of Fake Hacker Fags we examine a new "crew"
+            on the scene that goes by "Underground Agency". We will look into all
+            the fails, lulzy chats, old crew brown-nosing and EMO-QUITs that they
+            have provided us in their short time being around.
+
+                            Lets get this ;PppPpppPumpin
+
+            8=========================================================D---~~~~ ~~
+                                      CONTENT
+            8=========================================================D---~~~~ ~~
+
+                * BACKGROUND
+                * THE CREW
+                * STATS
+                * FAILS
+                * LOGS
+                * OUTRO
+
+            8=========================================================D---~~~~ ~~
+                                      BACKGROUND
+            8=========================================================D---~~~~ ~~
+
+            After a successful April Floods Day some new nicks rolled around
+            going by the name of "koa" and "gassip". These thread/defiler/rebel
+            wanna-bes quickly gained attention for their retarded "hardchats"
+            and their "1337 0d4yz".
+
+            However, within one day everyone knew these skids were bullshit and
+            most thought it was an elaborate troll. So everyone just didn't fuck
+            with them.
+
+            That was until these FHF witnessed only what they dreamed of one day
+            being able to do - a buffer overflow being found in real time.
+
+            Being in awe at what they just witnessed and being unsuccesful in
+            begging for an 0day, koa and gassip decided to release this buffer
+            overflow without consent or greetz to the folks who found the
+            vulnerability.
+
+            Eventually they were called out in their own public chats in #ua.
+            When gassip could no longer speak of his crews actions, he
+            de-registered the channel and then EMO-QUIT the network, never to
+            be seen again.
+
+            Edit:
+            FHF editors realized that koa had juped the GitChub account for
+            the real ac1db1tch3z koa and forgot to reupload the GPU rootkit
+            and keylogger PoC. So kiss that sweet code goodbye due to these
+            impersonating FHF.
+
+            -- snip --
+            17:31 < koa> ;PppPppPppp
+            17:31 < koa> bl1ng bl1ng
+            17:32 < gassip> ;PppPpp ~ud
+            17:35 < koa> Hey gassip you ever think about me while you j/o?
+            17:35 < gassip> ;PppPppp all the time bro ;PPpppPppp
+            17:35 < gassip> bl1ng bl1ng
+            17:35 < koa> <3
+            -- /snip --
+
+            8=========================================================D---~~~~ ~~
+                                      THE CREW
+            8=========================================================D---~~~~ ~~
+
+            Linx:
+                * https://discord.gg/xWtMd4n - Priv8 Dickord
+                * https://github.com/undergroundagency/ - GitChub
+
+            koa ->
+              Linx:
+                * https://twitter.com/x0r1_ua - Twitter
+                * https://steamcommunity.com/profiles/76561198333157214/ - Steam
+                * https://github.com/X0R1 - GitChub
+                  (he got the real x0r1's account from inactive jupe)
+                * keliikoakirland@gmail.com - Gaymail
+
+              Attributes:
+                * Claims to be koa of ac1db1tch3z (verified to be fake)
+                * Leader of the Gaygency
+                * Biggest FHF ever seen on this side of the scene
+                * The netz softest chatter
+                * Theif
+                * Self proclaimed "whitehat"
+                * Filthy dickord peon
+
+            gassip ->
+              Linx:
+                * Who cares about this fag
+
+              Attributes:
+                * The team's plowhorse
+                * Cant speak for himself
+                * Filthy dickord peon
+
+            Pain ->
+
+              * Unimportant no-name
+              * Still hope for this one
+
+
+            8=========================================================D---~~~~ ~~
+                                        STATS
+            8=========================================================D---~~~~ ~~
+
+              Underground Gaygency's Verified CVE's: None
+
+
+
+                        CVEs Verfied / Time
+                 |
+               4 -
+                 |
+            C  3 -
+            V    |
+            E  2 -
+            s    |
+               1 -
+                 |
+               0 - -----------------------------   <- LOL NONE
+                 |__|__|__|__|__|__|__|__|__|__|
+
+                               Time
+
+
+
+              Underground Gaygency's working PoCs: None
+
+
+
+                            PoCs / Time
+                 |
+               4 -
+                 |
+            P  3 -
+            o    |
+            C  2 -
+            s    |
+               1 -
+                 |
+               0 - -----------------------------   <- LOL NONE
+                 |__|__|__|__|__|__|__|__|__|__|
+
+                               Time
+
+
+
+                    Underground Gaygency's Fails
+
+
+
+                            Fails / Time
+                  |
+               25 -               /                <- MISSIN DATA SINCE EMO-QUIT
+                  |              /
+            F  20 -           /\/
+            A     |          /
+            I  15 -         /
+            L     |        /
+            S  10 -    ___/
+                  |   /
+                5 - -/
+                  |__|__|__|__|__|__|__|__|__|__|
+
+                               Time
+
+
+
+            -- snip --
+            09:22 <~anon> No that is not koa. I dont know who this kid is, nor has
+                          he ever been here.
+            -- /snip --
+
+            8=========================================================D---~~~~ ~~
+                                        FAILS
+            8=========================================================D---~~~~ ~~
+
+            Claiming to be the real koa:
+            https://github.com/undergroundagency/ezines/blob/master/L4t3r4L_adderaLL.txt#L687
+
+            Koa sucking MLT's dick and MLT responding with an e-handjob:
+            https://web.archive.org/web/20180410233016/https://twitter.com/X0R1_UA/status/983148844560117762
+
+            Koa getting BTFO on Full Disclosure by a mod:
+            https://web.archive.org/web/20180411005516/http://seclists.org/fulldisclosure/2018/Mar/70
+
+            UA dropping nk9k/snadge's bug without permission:
+            https://github.com/undergroundagency/ezines/blob/master/L4t3r4L_adderaLL.txt#L513
+
+            Getting trolled and putting MJ/Pyrex in a zine as a "win":
+            https://github.com/undergroundagency/ezines/blob/master/L4t3r4L_adderaLL.txt#L519
+
+            Koa chattin soft and putting it in the zine as a "win":
+            https://github.com/undergroundagency/ezines/blob/master/L4t3r4L_adderaLL.txt#L687
+
+            EOF?? I don't think you know what that means...
+            https://github.com/undergroundagency/ezines/blob/master/L4t3r4L_adderaLL.txt#L845
+
+            Fake 0day that links a reserved CVE w/ nothing:
+            https://github.com/undergroundagency/kernel/blob/master/bugs/frogz_no_more2.txt#L67
+            https://web.archive.org/web/20180411005602/http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-9253
+
+            Another Fake 0day with reserved CVE w/ nothing:
+            https://github.com/undergroundagency/kernel/blob/master/bugs/frogz_no_more.txt#L71
+            https://web.archive.org/web/20180412014201/http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-9008
+
+            Super lame tips and referring to someone elses blog:
+            https://github.com/undergroundagency/whitehat_help/blob/master/nix-rootkit-mitigation-tips.txt
+
+            Lame/Retarded logs of taking over konnectirc:
+            https://github.com/undergroundagency/konnectirc/blob/master/UA%5B0%5D_konnectirc.txt
+
+            Koa being a retarded sperg in #lrh and thinking its a "win":
+            https://github.com/undergroundagency/l0de/blob/master/UA%5B2%5D_efnetlrhshamed.txt
+
+            Super lame bug written in c when it could have been done in 1 curl command:
+            https://github.com/undergroundagency/ua/blob/master/nginx-1.13.10/logic-flaw/nginx-1.13.10-bug.c
+
+            Not being able to use git and upload via GitChubs UI:
+            https://web.archive.org/web/20180412230209/https://imgur.com/a/GI4eG
+
+            [TODO: re-use old ~el8 zine ascii]
+
+            -- snip --
+            13:55 <@anon> Idk why they are throwing greetz at us.
+            13:55 <@anon> Fuck them
+            -- /snip --
+
+            8=========================================================D---~~~~ ~~
+                                        LOGS
+            8=========================================================D---~~~~ ~~
+
+            Koa begging for 0days for their "zine":
+
+            19:25 <@koa> solar
+            19:25 <@koa> 2nd zine is ready, any 0days?
+            19:25 <@koa> or 1, as long as it's yours and u exclaim what it does
+                         etc
+            21:01 <+acidvegas> ne 0days solar
+            21:04 <@koa> acidvegas: we literally just need an 0day from solar and
+                         zine is done / getting submitted to FD
+            21:04 <@koa> solar: are u gonna pull through bruh?
+            21:04 <@koa> ~ua ~ua ~ua
+
+            .
+             .
+              .
+               .
+               . After no response from solar, koa decided to snag and release
+               . nk9k/snadge's bug without permission and release the zine.
+              .
+             .
+            .
+
+            Getting called out for stealing then de-regging the channel/EMO-QUIT:
+
+            16:10 <+nk9k> gasipp: why did you drop my bug?
+            16:10 <+nk9k> dont be a lamer
+            16:10 <@gasipp> me>?
+            16:10 <@gasipp> i didnt drop ur bug
+            16:10 <@gasipp> lol
+            16:10 <@gasipp> >> me
+            16:10 <+nk9k> then koa did
+            16:11 <@gasipp> nk9k i was afk all day
+            16:11 <@gasipp> well
+            16:11 <@gasipp> partially
+            16:11 <+nk9k> thats really lame dude
+            16:11 <@gasipp> not me
+            16:11 <@gasipp> ???????????
+            16:12 <@gasipp> i didnt drop ur bug lmfao
+            16:12 <+nk9k> then why is it in your zine?
+            16:12 <@gasipp> i did not add it?
+            16:12 <@gasipp> talk to koa?
+            16:12 <@gasipp> if u want a reference or some shit ask him
+            16:12 <+nk9k> no
+            16:13 <@gasipp> did u even exploit it?
+            16:13 <+nk9k> i didn't want it dropped at all
+            16:13 <@gasipp> koa said if it was ok to snadge it
+            16:13 <@gasipp> and u said it was
+            16:13 <@gasipp> apparently
+            16:13 <+nk9k> No
+            16:13 <+nk9k> i did not
+            16:13 <@gasipp> thats what he just told me?
+            16:13 <@gasipp> do u wanna talk to him/
+            16:13 <@gasipp> ?
+            16:14 <+nk9k> not really. the deed is done
+            16:14 <+nk9k> super fucking lame tho
+            16:14 <@gasipp> well take that up w/ him not me dude
+            16:15 <+nk9k> so you had no idea what was going into the zine?
+            16:19 -!- ChanServ [services@redacted] has left #ua []
+            16:19 -!- mode/#ua [-r] by ChanServ
+            16:20 -!- gasipp [gasipp@underground.agency] has quit [EMO-QUIT]
+
+
+            But wait... After EMO-QUITing gassip decided to relay nk9k's chat to
+            koa via private dms on twitter....
+
+            Little do they know...
+
+              """
+                +nk9k | i didn't want it dropped at all
+                +nk9k | i did not
+                i asked if it was ok from u
+                +nk9k | not really. the deed is done
+                +nk9k | super fucking lame tho
+                +nk9k | so you had no idea what was going into the zine?
+                he asked me that
+
+                koa - Today at 1:16 PM
+                dude
+                just paste me
+                everything he typed
+                gasipp - Today at 1:16 PM
+                thats all their is
+                lmao
+                koa - Today at 1:16 PM
+                tell him im zine'ing him next
+                for claiming that hexchat bug
+                as his
+                and acting like
+                it's his to keep
+                gasipp - Today at 1:17 PM
+                technically me and E found one
+                because my client crashed
+                w/ version
+                lol
+                so..
+                koa - Today at 1:17 PM
+                lol
+                gasipp - Today at 1:17 PM
+                fuck em
+                hahaha
+                koa - Today at 1:17 PM
+                so those logs u sent of him
+                all he said?
+                gasipp - Today at 1:17 PM
+                yea
+                koa - Today at 1:17 PM
+                kk good
+                gasipp - Today at 1:17 PM
+                he said he didnt want dropped
+                too
+                koa - Today at 1:17 PM
+                thanks bro
+                karma time
+                again
+                lol
+                yeah he's retarded
+                he didn't even find that bug
+                just a selfish jewish faggot
+                lol
+                gasipp - Today at 1:18 PM
+                im pretty sure someone else found that actually too
+                i dropped the chan                                     <-- LOLOLOLOL
+
+                --
+                rough draft for next zine          <- WOW. Looks like a great "zine"
+                EOF                            <- Again.. Not the real EOF
+                ~ua 2018
+              """
+
+            We lurk that chats you are in as well.
+
+            https://web.archive.org/web/20180412230601/https://i.imgur.com/k9abMOr.png
+
+            8=========================================================D---~~~~ ~~
+                                        OUTRO
+            8=========================================================D---~~~~ ~~
+
+            Shoutouts to EFNetNews, LRH, PP4L and any other real motha fucker on
+            this side of the net.
+
+            Till next time....Pz
